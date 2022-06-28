@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LMS Mobile</string>
+    <string name="username_id">მომხმარებლის სახელი (პირ. ნომერი)</string>
+    <string name="password">პაროლი</string>
+    <string name="login">შესვლა</string>
+    <string name="expand">გახსნა</string>
+    <string name="hello">გამარჯობა,</string>
+    <string name="student">სტუდენტო</string>
+    <string name="logo">თსუ-ს ლოგო</string>
+</resources>

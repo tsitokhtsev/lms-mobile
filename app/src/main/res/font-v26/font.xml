@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <font
+        android:font="@font/bpg_web_001_caps_webfont"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+
+    <font
+        android:font="@font/bpg_web_001_webfont"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+
+</font-family>
